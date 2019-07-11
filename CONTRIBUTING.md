@@ -58,7 +58,7 @@ if (condition) {
 ```
 ## Variable Names
 
-The points and examples presented below can be found in the very helpful [article](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be) of 
+The points and examples presented below can be found in the very helpful [article](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be) of Will Koehrsen, which is full of useful tips and highly recommended for reading.
 
 ### General points 
 
