@@ -8,6 +8,7 @@ There are a few things that each new member should do when he/she joins the rese
 * Check that your owncloud account is working.
 * We use the slack for communication and wrike for project management. Make sure that you have been invited to both of them. 
 * Download and begin to maintain a reference manager. We recommend [Zotero](https://www.zotero.org/), as the free software interfaces well with both Microsoft Word and Google Docs. 
+* Read the common scripting practices described [here](https://github.com/KVHEM/how_we_work/blob/master/CONTRIBUTING.md).
 
 ## Data management
 
@@ -22,8 +23,8 @@ There are a few things that each new member should do when he/she joins the rese
 
 * We do our data analysis in GitHub repositories to facilitate collaboration and sharing.
 * We use scripts to process data, make models, do analyses, etc. and avoid spreedsheets, gis applications or other software.
-* We follow some common scripting practices described [here](https://github.com/KVHEM/how_we_work/blob/master/CONTRIBUTING.md).
 * `R` is used by the most team members and the `data.table`, `ggplot2` packages in specific. Of course other software/packages are welcome. 
+* We try to comment a lot in our code.
 
 ## Results-Presentation
 
