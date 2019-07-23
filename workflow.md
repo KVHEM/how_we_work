@@ -7,7 +7,7 @@ There are a few things that each new member should do when he/she joins the rese
 * Create a GitHub account.
 * Check that your owncloud account is working.
 * We use the slack for communication and wrike for project management. Make sure that you have been invited to both of them. 
-* Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin here.
+* Download and begin to maintain a reference manager. We recommend [Zotero](https://www.zotero.org/), as the free software interfaces well with both Microsoft Word and Google Docs. 
 
 ## Data management
 
@@ -23,15 +23,18 @@ There are a few things that each new member should do when he/she joins the rese
 * We do our data analysis in GitHub repositories to facilitate collaboration and sharing.
 * We use scripts to process data, make models, do analyses, etc. and avoid spreedsheets, gis applications or other software.
 * We follow some common scripting practices described [here](https://github.com/KVHEM/how_we_work/blob/master/CONTRIBUTING.md).
+* `R` is used by the most team members and the `data.table`, `ggplot2` packages in specific. Of course other software/packages are welcome. 
 
 ## Results-Presentation
 
-* We publish git repositories through Zenodo upon publication of a manuscript.
-* Collaborative manuscripts are written either in Overleaf or Google Drive.
+* We publish git repositories through [Zenodo](https://zenodo.org/) upon publication of a manuscript.
+* Collaborative manuscripts are written either in [Overleaf](https://www.overleaf.com/) or [Google Drive](https://www.google.com/drive/).
 
 ## Guides and tutorials
 
-https://happygitwithr.com/index.html
-
-
+* [R for data science](https://r4ds.had.co.nz/)
+* [Rstudio with GitHub](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/)
+* [R with git](https://happygitwithr.com/index.html)
+* [Zotero](https://www.youtube.com/watch?v=q6-YOPS1xY4)
+* [data.table vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 
