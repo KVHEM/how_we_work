@@ -4,7 +4,7 @@ Different coders comes with different background. Readability of code is much im
 
 ## **Notation**
 
-Use the snake notation in names -- separate the words with underscores. Generally we use only small letters for variables/functions and caps for constants. 
+Use the snake notation in names - separate the words with underscores. Generally we use only small letters for variables/functions and caps for constants. 
 
 *Example:*  
    
@@ -141,7 +141,7 @@ dot_product <- function(x, y, ) {
 ```
 
 ## TODO's
-In general, do not use them since the [Issues](https://github.com/KVHEM/drought_uncertainty/issues) feature on GitHub is much more capable.     
+In general, do not use them in scripts since the [Issues](https://github.com/KVHEM/drought_uncertainty/issues) feature on GitHub is much more capable.     
 
 
 
