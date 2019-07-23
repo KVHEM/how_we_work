@@ -38,3 +38,6 @@ There are a few things that each new member should do when he/she joins the rese
 * [Zotero](https://www.youtube.com/watch?v=q6-YOPS1xY4)
 * [data.table vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 
+## Acknowledgements
+
+Much of the inspiration for preserving an efficient, reproducible workflow came from [openscapes](https://www.openscapes.org/about/), while some of the material used here can be found in [Pinsky lab](https://github.com/pinskylab).
