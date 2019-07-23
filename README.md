@@ -1,4 +1,4 @@
-Our top priority is doing reproducible science. This means establishing an efficient workflow. 
+Our top priority is doing reproducible science. This means establishing an efficient workflow that allows for collaboration in a convenient manner. The following set of guidelines and suggestions aim to this objective.
 
 ## Onboarding
 
@@ -40,4 +40,4 @@ There are a few things that each new member should do when he/she joins the rese
 
 ## Acknowledgements
 
-Much of the inspiration for preserving an efficient, reproducible workflow came from [openscapes](https://www.openscapes.org/about/), while some of the material used here can be found in [Pinsky lab](https://github.com/pinskylab).
+Much of the inspiration for preserving an efficient, reproducible workflow came from [openscapes](https://www.openscapes.org/about/), while some of the material used here were copied from [Pinsky lab](https://github.com/pinskylab).
