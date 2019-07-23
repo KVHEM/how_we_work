@@ -1,4 +1,4 @@
-Doing reproducible science means establishing an efficient workflow. 
+Our top priority is doing reproducible science. This means establishing an efficient workflow. 
 
 ## Onboarding
 
