@@ -143,7 +143,7 @@ dot_product <- function(x, y, ) {
 ## TODO's
 In general, do not use them in scripts since the [Issues](https://github.com/KVHEM/drought_uncertainty/issues) feature on GitHub is much more capable. If we want to add them in script, an efficient way is:
 
-```#TODO(member): Exact description of the action needed```
+```#TODO(username): Exact description of the action needed```
 
 
 
