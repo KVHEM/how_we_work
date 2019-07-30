@@ -28,6 +28,7 @@ There are a few things that each new member should do when he/she joins the rese
 
 ## Results-Presentation
 
+* We aim to fully reproducible papers, as in this [example](https://github.com/CenterForOpenScience/rpp/blob/master/README.md). 
 * We publish git repositories through [Zenodo](https://zenodo.org/) upon publication of a manuscript.
 * Collaborative manuscripts are written either in [Overleaf](https://www.overleaf.com/) or [Google Drive](https://www.google.com/drive/).
 
