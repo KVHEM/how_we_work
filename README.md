@@ -18,6 +18,7 @@ There are a few things that each new member should do when he/she joins the rese
 * If we clean the data, we often use a folder called something like "raw" to differentiate data in its original form from data that has been manipulated.
 * If we are using data downloaded from another data source, we include the data source in a README.
 * If our data are too large to store on GitHub, we store them in owncloud and include the link to README file for reproducibility.
+* Some useful suggestions and ideas can be found in the [Cambridge Data Management Website](https://www.data.cam.ac.uk/data-management-guide/organising-your-data).
 
 ## Analysis
 
