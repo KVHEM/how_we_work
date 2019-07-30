@@ -1,6 +1,6 @@
 # How we script
 
-Different coders comes with different background. Readability of code is much improved, if common ground is set. Coding according to common standards eases presentation of the code outside the project team.
+Different coders comes with different background. Readability of code is much improved, if common ground is set. Coding according to common standards eases presentation of the code outside the project team. Also see the [google style guidelines](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html).
 
 ## **Notation**
 
@@ -141,7 +141,9 @@ dot_product <- function(x, y, ) {
 ```
 
 ## TODO's
-In general, do not use them in scripts since the [Issues](https://github.com/KVHEM/drought_uncertainty/issues) feature on GitHub is much more capable.     
+In general, do not use them in scripts since the [Issues](https://github.com/KVHEM/drought_uncertainty/issues) feature on GitHub is much more capable. If we want to add them in script, an efficient way is:
+
+```#TODO(member): Exact description of the action needed```
 
 
 
