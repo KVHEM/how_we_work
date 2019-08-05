@@ -106,10 +106,45 @@ for i in range(n):
             temp_value = X[i][j][k] * 12.5
             new_array[i][j][k] = temp_value + 150
 ```
+## Functions
+Function names should say what they do.
+
+*Example:*  
+
+```
+newDate <- date_add(5)
+```
+
+Would you expect this to add five days to the date? Or is it weeks, or hours? You can’t tell from the call what the function does.
+
+Functions should have a small number of **arguments**. One argument is best, followed by two and three. More than three is very questionable and should be avoided.
+
+**Boolean arguments** declare that the function does more than one thing. They are confusing and should be eliminated.
+
+Every time you see **duplication** in the code, it represents a missed opportunity for abstraction. That duplication could probably become another function outright. 
 
 ## Documentation
 ### Comments
-We use comments wherever the code chunk is not understandable on first sight.
+Comments should be reserved for **technical notes** about the code and design. We use comments wherever the code chunk is not understandable on first sight. 
+
+A comment is **redundant** if it describes something that adequately describes itself. 
+
+*Example:*        
+
+```
+i <- i + 1 # increment i
+```
+
+Comments should say things that the code cannot say for itself.
+
+A comment that has gotten old, irrelevant, and incorrect is **obsolete**. Comments get old quickly. It is best not to write a comment that will become obsolete. If you find an obsolete comment, it is best to update it or get rid of it as quickly as possible.
+
+A comment worth writing is worth **writing well**. If you are going to write a comment, take the time to make sure it is the best comment you can write. Choose your words carefully. Use correct grammar and punctuation. Don’t ramble. Don’t state the obvious.
+Be brief.
+
+When you see **commented-out code**, delete it!
+
+### Function documentation
 When creating a new function, the next first line should give a comprehensive description.       
 
 *Example:*        
@@ -122,8 +157,8 @@ hist(df$pct.spent,
   xlab   = "Fraction of budget spent",
   ylab   = "Frequency (count of campaignids)")
 ```
-### Function documentation
-We try to describe function purpose and properties in the definition. More can be found [here](http://r-pkgs.had.co.nz/man.html)
+
+In general, we try to describe function purpose and properties in the **definition**. More can be found [here](http://r-pkgs.had.co.nz/man.html)
 
 *Example:*      
 
@@ -145,5 +180,7 @@ In general, do not use them in scripts since the [Issues](https://github.com/KVH
 
 ```#TODO(username): Exact description of the action needed```
 
+## Further steps
 
+The only 
 
