@@ -180,7 +180,3 @@ In general, do not use them in scripts since the [Issues](https://github.com/KVH
 
 ```#TODO(username): Exact description of the action needed```
 
-## Further steps
-
-The only 
-
