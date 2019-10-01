@@ -40,6 +40,7 @@ There are a few things that each new member should do when he/she joins the rese
 * [R with git](https://happygitwithr.com/index.html)
 * [Zotero](https://www.youtube.com/watch?v=q6-YOPS1xY4)
 * [data.table vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+* [Writing good software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/index.html)
 
 ## Acknowledgements
 
