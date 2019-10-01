@@ -36,11 +36,12 @@ There are a few things that each new member should do when he/she joins the rese
 ## Guides and tutorials
 
 * [R for data science](https://r4ds.had.co.nz/)
+* [R/R studio for pure beginners](https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)
 * [Rstudio with GitHub](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/)
 * [R with git](https://happygitwithr.com/index.html)
 * [Zotero](https://www.youtube.com/watch?v=q6-YOPS1xY4)
 * [data.table vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
-* [Writing good software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/index.html)
+* [writing good software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/index.html)
 
 ## Acknowledgements
 
