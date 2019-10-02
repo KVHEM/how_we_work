@@ -180,3 +180,7 @@ In general, do not use them in scripts since the [Issues](https://github.com/KVH
 
 ```#TODO(username): Exact description of the action needed```
 
+## R packages
+We try to load as less packages as possible in our scripts and avoid using two different packages for the same purpose. For instance using both `readr()` & `read.file`. 
+
+
