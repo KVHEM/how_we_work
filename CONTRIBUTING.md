@@ -82,8 +82,8 @@ The points and examples presented below can be found in the very helpful [articl
 *Example:*  
 
 ```
-PIXEL_NORMALIZATION_FACTOR = 12.5
-PIXEL_OFFSET_FACTOR = 150
+PIXEL_NORMALIZATION_FACTOR <- 12.5
+PIXEL_OFFSET_FACTOR <- 150
 
 for row_index in range(row_count):
     for column_index in range(column_count):
