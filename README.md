@@ -5,7 +5,7 @@ Our top priority is doing reproducible science. This means establishing an effic
 There are a few things that each new member should do when he/she joins the research team. These are:
 
 * Create a GitHub account.
-* Check that your owncloud account is working.
+* Check that your (owncloud)[https://owncloud.cesnet.cz/]  account is working.
 * We use the slack for communication and wrike for project management. Make sure that you have been invited to both of them. 
 * Download and begin to maintain a reference manager. We recommend [Zotero](https://www.zotero.org/), as the free software interfaces well with both Microsoft Word and Google Docs. 
 * Read the common scripting practices described [here](https://github.com/KVHEM/how_we_work/blob/master/CONTRIBUTING.md).
