@@ -4,11 +4,11 @@ Different coders comes with different background. Readability of code is much im
 
 ## **Notation**
 
-Use the snake notation in names - separate the words with dashes. Generally we use only small letters for variables/functions and caps for constants. 
+Use the snake notation in names _ separate the words with underscores. Generally we use only small letters for variables/functions and caps for constants. 
 
 *Example:*  
    
-`lower-case-with-dashes <- function(x)`
+`lower_case_with_underscores <- function(x)`
 
 ## **Line length**
 The maximum line length should go under 80 characters, where is it possible and reasonable. There is a guide in RStudio IDE for that at *Options* > *Code* > *Display* > *Show margin(80)*.
@@ -28,7 +28,7 @@ Assignment op. `<-` should be surrounded with empty spaces.
 
 *Example:*      
 
-`const-x <- 5.451`
+`const_x <- 5.451`
 
 ## Indentation
 We indent with two spaces. A tab could be a different number of columns depending on our environment, but a space is always one column.    
@@ -82,18 +82,18 @@ The points and examples presented below can be found in the very helpful [articl
 *Example:*  
 
 ```
-PIXEL-NORMALIZATION-FACTOR <- 12.5
-PIXEL-OFFSET-FACTOR <- 150
+PIXEL_NORMALIZATION_FACTOR <- 12.5
+PIXEL_OFFSET_FACTOR <- 150
 
-for row-index in range(row-count):
-    for column-index in range(column-count):
-        for color-channel-index in range(color-channel-count):
-            normalized-pixel-value = (
-                original-pixel-array[row-index][column-index][color-channel-index]
-                * PIXEL-NORMALIZATION-FACTOR
+for row_index in range(row_count):
+    for column_index in range(column_count):
+        for color_channel_index in range(color_channel_count):
+            normalized_pixel_value = (
+                original_pixel_array[row_index][column_index][color_channel_index]
+                * PIXEL_NORMALIZATION_FACTOR
             )
-            transformed-pixel-array[row-index][column-index][color-channel-index] = (
-                normalized-pixel-value + PIXEL-OFFSET-FACTOR
+            transformed_pixel_array[row_index][column_index][color_channel_index] = (
+                normalized_pixel_value + PIXEL_OFFSET_FACTOR
 )
 ```
 
@@ -163,7 +163,7 @@ In general, we try to describe function purpose and properties in the **definiti
 *Example:*      
 
 ```
-dot-product <- function(x, y, ) {
+dot_product <- function(x, y, ) {
 # Computes dot product of two vector inputs.
 # Args:
 #  x: Transposed numerical vector.
