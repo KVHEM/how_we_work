@@ -4,7 +4,7 @@ Different coders comes with different background. Readability of code is much im
 
 ## **Notation**
 
-Use the snake notation in names - separate the words with underscores. Generally we use only small letters for variables/functions and caps for constants. 
+Use the snake notation in names _ separate the words with underscores. Generally we use only small letters for variables/functions and caps for constants. 
 
 *Example:*  
    
