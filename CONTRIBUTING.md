@@ -1,6 +1,6 @@
 # How we script
 
-Different coders comes with different background. Readability of code is much improved, if common ground is set. Coding according to common standards eases presentation of the code outside the project team. Also see the [google style guidelines](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html).
+Different coders comes with different background. Readability of code is much improved, if common ground is set. Coding according to common standards eases presentation of the code outside the project team. Also see the [tidyverse syntax](https://style.tidyverse.org/syntax.html) and [google style guidelines](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html).
 
 ## **Notation**
 
