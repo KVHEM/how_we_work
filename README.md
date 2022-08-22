@@ -4,9 +4,10 @@ Reproducible science is our top priority. Therefore, it is imperative to establi
 
 Every new member that joins the research team should:
 
+* Apply for vpn through the university helpdesk service.
 * Create a GitHub account.
 * Verify that [owncloud](https://owncloud.cesnet.cz/)  account is active and working.
-* Slack is used for communication and Wrike for project management. Make sure to have been invited to both of them. 
+* Teams is used for communication and project management. Make sure to have been invited to both of them. 
 * Download and start to maintain a reference manager. We recommend [Zotero](https://www.zotero.org/), as the freeware is compatible with both Microsoft Word and Google Docs. 
 * Read the standard scripting practices described [here](https://github.com/KVHEM/how_we_work/blob/master/CONTRIBUTING.md).
 
