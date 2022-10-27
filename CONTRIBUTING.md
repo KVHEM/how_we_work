@@ -163,7 +163,7 @@ In general, we try to describe function purpose and properties in the **definiti
 *Example:*      
 
 ```
-dot_product <- function(x, y, ) {
+dot_product <- function(x, y) {
 # Computes dot product of two vector inputs.
 # Args:
 #  x: Transposed numerical vector.
